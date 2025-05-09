@@ -45,3 +45,6 @@ We’re an open-source coop, and we want YOU to make this game even cluckier:
 ## Start Clicking, Crafters!
 
 Flap over to [https://chicken-jockey-clicker.com](https://chicken-jockey-clicker.com) and start tapping—no diamonds required.
+
+## Update History
+- 2025-05-09 minor fix for the broken assets
